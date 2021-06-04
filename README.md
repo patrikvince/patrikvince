@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @patrikvince
+- 👀 I’m interested in web development, data analysis and data science.
+- 🌱 I’m currently learning python, numpy, pandas, matlab.
+- 📫 How to reach me: patrikvince@gmail.com
