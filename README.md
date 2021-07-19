@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @patrikvince, I'm a software developer.
 - 👀 I’m interested in web development, data analysis and data science.
-- 🌱 I’m currently learning python, numpy, pandas, matlab.
+- 🌱 I’m currently learning python, numpy, pandas and matlab.
 - 📫 How to reach me: patrikvince@gmail.com
