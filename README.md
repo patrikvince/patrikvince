@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @patrikvince, I'm a software developer.
-- 👀 I’m interested in data analysis and data science.
-- 🌱 I’m currently learning machine learning.
-- 📫 How to reach me: patrikvince@gmail.com
+Hi, I am Patrik Vince. 
+I am a student at Universitz of Óbuda.
+Those projects are made by fun and learning.
